@@ -1,4 +1,5 @@
 # DS3103, Web-Development
+## Grade: A
 
 [📜 Exam Assignment 📜](Exam-DS3103-Webutvikling-H2023.pdf)
 
